@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://i0.wp.com/www.theotheraesthetic.com/wp-content/uploads/2022/06/Aesthetic_Stationery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;}
+    h1 {
+        
+        text-align: center;
+    
+        color: rgb(100, 88, 211);
+        font-size: 60px;}
+        h2 {
+            text-align: left;
+        
+            color: rgb(255, 9, 193);
+            font-size: 45px;}
+            ol{
+                text-align: left;
+        
+            color: rgb(16, 13, 46);
+            font-size: 30px;}
+            h3{
+                text-align: center;
+    
+        color: rgb(100, 88, 211);
+        font-size: 60px;}
+        ul{
+            text-align: left;
+    
+        color: rgb(16, 13, 46);
+        font-size: 30px;}
+           
+           
+            
+    
